@@ -8,3 +8,6 @@ https://github.com/qq422733429/ModelManager
 
 统一用户认证中心(Unified authentication platform)
 https://github.com/vakinge/jeesuite-passport
+
+AuthManage
+https://github.com/WangJunTYTL/authmanage
